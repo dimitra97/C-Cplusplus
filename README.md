@@ -10,3 +10,4 @@ In the second part of the problem, the fractal dimension is calculated, which sh
 with the scale at which it is measured. 
 In this problem, the ROOT package (CERN software) is used for demonstration. After running this simulation, one can see the canvas above 
 that creates the DLA structure.
+![Diffusion Limited Aggregation](https://i.pinimg.com/originals/c6/e6/c1/c6e6c1926e64c35992e53804b0c0dfa0.gif)
