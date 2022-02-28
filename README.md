@@ -1,7 +1,5 @@
 # Cplusplus
 
-This repository contains programmes written in C++ about mathematical or physical problems.
-
 
 Problem2.C: The Diffusion Limited Aggregation problem (DLA) is about particles performing random walks in order to form aggregates of such particles. 
 The clusters formed in a DLA process are an example of fractals, structures that appear to be the same at different scales. 
